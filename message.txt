@@ -632,7 +632,7 @@ local Input = Tab:CreateInput({
    OnEnter = true, -- Will callback only if the user pressed ENTER while being focused on the the box.
    RemoveTextAfterFocusLost = false, -- Speaks for itself.
    Callback = function(Text)
-Chat("havesomerespectfor(Text)f￴￴￴a￴￴ta￴￴￴ss￴!")
+Chat("havesomerespectfor"(Text)"f￴￴￴a￴￴ta￴￴￴ss￴!")
 
    -- The function that takes place when the input is changed
    -- The variable (Text) is a string for the value in the text box
