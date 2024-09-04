@@ -639,3 +639,30 @@ Chat("havesomerespectfor".. (Text) .."f￴￴￴a￴￴ta￴￴￴ss￴!")
    -- The variable (Text) is a string for the value in the text box
    end,
 })
+
+
+local Input = Tab:CreateInput({
+   Name = "your username is majestic as fuck!",
+   PlaceholderText = "your username",   NumbersOnly = false, -- If the user can only type numbers. Remove or set to false if none.
+   CharacterLimit = false, --max character limit. Remove or set to false
+   OnEnter = true, -- Will callback only if the user pressed ENTER while being focused on the box.
+   RemoveTextAfterFocusLost = false, -- Speaks for itself.
+   Callback = function(Text)
+      -- Corrected version to display the input Text dynamically
+      Chat("" .. Text .. ",ismajesticasf￴￴￴u￴￴￴￴c￴￴￴￴￴￴k!")
+   end,
+})
+
+local Input = Tab:CreateInput({
+   Name = "your username is the master of all slaves!",
+   PlaceholderText = "your username",   NumbersOnly = false, -- If the user can only type numbers. Remove or set to false if none.
+   CharacterLimit = false, --max character limit. Remove or set to false
+   OnEnter = true, -- Will callback only if the user pressed ENTER while being focused on the box.
+   RemoveTextAfterFocusLost = false, -- Speaks for itself.
+   Callback = function(Text)
+      -- Corrected version to display the input Text dynamically
+      Chat("" .. Text .. ",isthem￴￴￴￴￴a￴￴￴s￴￴￴t￴￴￴e￴￴￴￴rofalls￴￴￴l￴￴￴a￴￴￴v￴￴￴e￴￴￴s!")
+   end,
+})
+
+
