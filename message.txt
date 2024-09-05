@@ -521,7 +521,7 @@ local Button = Tab:CreateButton({
                                              Name = "back to work nigger!",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("b￴￴￴￴￴a￴￴￴￴￴￴c￴￴￴￴￴k￴￴￴￴￴t￴￴￴￴￴ow￴￴￴￴￴o￴￴￴￴￴r￴￴￴￴kn￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴e￴￴￴￴￴r!")
+                                                Chat("b￴￴￴￴￴a￴￴￴￴￴￴c￴￴￴￴￴k￴￴￴￴￴t￴￴￴￴￴ow￴￴￴￴￴o￴￴￴￴￴r￴￴￴￴kn￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴e￴￴￴￴￴r￴N￴￴￴￴OW!")
                                                 
                                              end,
                                           })
