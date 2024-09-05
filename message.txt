@@ -815,18 +815,3 @@ local Input = Tab:CreateInput({
 })
 
 
-local Tab = Window:CreateTab("songs", 4483362458)
-
-local Button = Tab:CreateButton({
-                                             Name = "gay story",
-                                             Interact = 'Click',
-                                             Callback = function()
-                                                Chat("G￴￴￴o￴￴￴ts￴￴￴￴￴o￴￴￴￴￴m￴￴￴￴￴et￴￴￴￴o￴￴￴￴￴pf￴￴￴￴￴r￴￴￴￴￴o￴￴￴￴￴m￴￴￴￴t￴￴￴￴h￴￴￴￴i￴￴￴￴ss￴￴￴￴e￴￴￴￴￴x￴￴￴￴￴yn￴￴￴￴￴i￴￴￴￴￴g￴￴￴g￴￴￴￴￴a")
-function wait(2)
-Chat("He from Tennessee")
-function wait(1) 
-Chat("is￴￴￴￴u￴￴￴￴c￴￴￴￴k￴￴￴￴e￴￴￴￴dh￴￴￴i￴￴￴￴sc￴￴￴￴￴o￴￴￴￴c￴￴￴￴k")
-end,
-})
-
-
