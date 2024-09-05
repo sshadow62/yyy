@@ -664,5 +664,18 @@ local Input = Tab:CreateInput({
       Chat("" .. Text .. ",isthem￴￴￴￴￴a￴￴￴s￴￴￴t￴￴￴e￴￴￴￴rofalls￴￴￴l￴￴￴a￴￴￴v￴￴￴e￴￴￴s!")
    end,
 })
+local Input = Tab:CreateInput({
+   Name = "your username is a fucking LEGEND!",
+   PlaceholderText = "your username",   NumbersOnly = false, -- If the user can only type numbers. Remove or set to false if
+   CharacterLimit = false, --max character limit. Remove or set to false
+   OnEnter = true, -- Will callback only if the user pressed ENTER while being focused on the box.
+   RemoveTextAfterFocusLost = false, -- Speaks for itself.
+   Callback = function(Text)
+      -- Corrected version to display the input Text dynamically
+      Chat("" .. Text .. ",i￴￴￴saf￴￴￴u￴￴￴c￴￴￴k￴￴￴i￴￴ngLEGEND!")
+   end,
+})
+
+
 
 
