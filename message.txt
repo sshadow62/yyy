@@ -60,11 +60,6 @@ local Window = ArrayField:CreateWindow({
    }
 })
 
-local Tab = Window:CreateTab("Credits", 4483362458) -- Title, Image
-
-local Label = Tab:CreateLabel("made by shadow62 and c2vp")
-
-local Label = Tab:CreateLabel(discord.￴￴￴￴￴g￴￴￴￴￴g/￴￴￴￴z￴￴￴￴￴￴f￴￴￴G￴￴￴￴￴qpU￴￴￴￴￴k￴￴￴￴￴F6")
        
       local Tab = Window:CreateTab("Main", 4483362458) -- Title, Image
        
