@@ -302,10 +302,19 @@ local Button = Tab:CreateButton({
                                           })
 
 local Button = Tab:CreateButton({
-                                             Name = "go fuck yourself!",
+                                             Name = "idc go fuck yourself",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("g￴￴￴￴of￴￴￴￴u￴￴￴￴c￴￴￴￴ky￴￴￴￴o￴￴￴￴u￴￴￴￴r￴￴￴￴s￴￴￴￴e￴￴￴￴￴ӏ￴￴￴￴f!")
+                                                Chat("idcg￴￴￴￴of￴￴￴￴u￴￴￴￴c￴￴￴￴ky￴￴￴￴o￴￴￴￴u￴￴￴￴r￴￴￴￴s￴￴￴￴e￴￴￴￴￴ӏ￴￴￴￴f")
+                                                
+                                             end,
+                                          })
+
+local Button = Tab:CreateButton({
+                                             Name = "just stop fucking talking!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("j￴￴￴us￴￴￴￴tst￴￴￴o￴￴￴pf￴￴￴￴￴u￴￴￴￴c￴￴￴￴k￴￴￴i￴￴￴n￴￴￴￴￴gta￴￴￴￴lki￴￴￴n￴g!")
                                                 
                                              end,
                                           })
@@ -369,6 +378,26 @@ local Button = Tab:CreateButton({
                                                     
                                                     end,
                                                     })
+
+local Button = Tab:CreateButton({
+                                                Name = "10,000$ from mrbeast at watchpeopledie.tv",
+                                                Interact = 'Click',
+                                                Callback = function()
+                                                   Chat("10,000$frommrbeastat￴w￴￴￴аt￴￴￴с￴￴￴һр￴￴￴ео￴￴￴рӏ￴￴￴еd￴￴￴іе.t￴￴￴v!")
+                                                    
+                                                    end,
+                                                    })
+
+local Button = Tab:CreateButton({
+                                                Name = "brazzers is free!🥳🎉",
+                                                Interact = 'Click',
+                                                Callback = function()
+                                                   Chat("b￴￴￴￴r￴￴￴￴a￴￴￴￴￴z￴z￴￴￴￴e￴￴￴￴r￴￴￴￴￴si￴￴￴sf￴￴￴￴￴r￴￴￴￴e￴￴￴￴e!🎉🥳")
+                                                    
+                                                    end,
+                                                    })
+
+
 
 local Tab = Window:CreateTab("racist", 4483362458) -- Title, Image
 
@@ -469,6 +498,24 @@ local Button = Tab:CreateButton({
                                                    
                                                        }) 
 
+local Button = Tab:CreateButton({
+                                             Name = "did this blackass monkey just talk back to me?",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("didthisb￴￴￴￴￴l￴￴￴￴￴a￴￴￴￴￴￴c￴￴￴￴￴k￴￴￴￴￴a￴￴￴￴s￴￴￴￴s￴￴￴m￴￴￴o￴￴￴n￴￴￴k￴￴￴e￴￴￴yjusttalkbacktome?")
+                                                
+                                             end,
+                                          })
+
+local Button = Tab:CreateButton({
+                                             Name = "listen to your master slave!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("lis￴￴￴￴te￴￴￴nt￴￴￴￴￴￴oyo￴￴￴￴￴urm￴￴￴￴a￴￴￴￴s￴￴￴￴t￴￴￴￴e￴￴￴￴￴rs￴￴￴￴￴l￴￴￴￴￴a￴￴￴￴￴v￴￴￴￴e!")
+                                                
+                                             end,
+                                          })
+
                                            
 
                     
@@ -552,8 +599,39 @@ local Button = Tab:CreateButton({
                                      local Tab = Window:CreateTab("nazi", 4483362458) -- Title, Image
 
 
+local Button = Tab:CreateButton({
+                                       Name = "common hitler W",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("commonh￴￴￴i￴￴￴t￴￴￴￴l￴￴￴￴e￴￴￴￴r￴￴W")
+                                       end,
+                                    })
 
-                                     local Label = Tab:CreateLabel("next update!")
+local Button = Tab:CreateButton({
+                                       Name = "go back to the gas chamber jew!",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("g￴ob￴￴￴a￴￴￴￴ckt￴￴￴￴oth￴￴￴￴eg￴￴￴a￴￴￴￴s￴￴￴￴c￴￴￴h￴￴￴￴a￴￴￴￴m￴￴￴￴b￴￴￴￴e￴￴￴r￴￴￴￴j￴￴￴e￴￴￴￴w!")
+                                       end,
+                                    })
+
+
+local Button = Tab:CreateButton({
+                                       Name = "let's gas some jews!",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("￴￴￴￴letsg￴￴￴a￴￴￴￴s￴￴￴￴s￴￴￴o￴￴￴￴m￴￴ej￴￴￴e￴￴￴w￴￴￴s￴￴￴!")
+                                       end,
+                                    })
+
+local Button = Tab:CreateButton({
+                                       Name = "i just realized that hitler was soooo right!",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("iju￴￴￴￴stre￴￴￴￴ali￴￴￴zedth￴￴￴￴ath￴￴￴i￴￴￴￴￴t￴￴￴￴l￴￴￴e￴￴￴r￴￴￴￴wass￴￴o￴oo￴or￴i￴g￴h￴t￴!")
+                                       end,
+                                    })
+                                     
 
                                      local Tab = Window:CreateTab("friendly", 4483362458) -- Title, Image
 
@@ -566,10 +644,10 @@ local Button = Tab:CreateButton({
                                     })
 
 local Button = Tab:CreateButton({
-                                       Name = "u speaking fax nigga❤️",
+                                       Name = "u speaking fax my nigga❤️",
                                        Interact = 'Click',
                                        Callback = function()
-                                          Chat("us￴￴￴p￴￴￴e￴￴￴a￴￴￴￴k￴￴￴￴i￴￴￴n￴￴￴￴gf￴￴￴￴a￴￴￴￴xn￴￴￴￴i￴￴￴￴g￴￴￴g￴￴￴a❤️")
+                                          Chat("us￴￴￴p￴￴￴e￴￴￴a￴￴￴￴k￴￴￴￴i￴￴￴n￴￴￴￴gf￴￴￴￴a￴￴￴￴xm￴￴￴￴￴yn￴￴￴￴￴￴i￴￴￴￴￴g￴￴￴￴g￴￴￴￴a￴￴￴❤️")
                                        end,
                                     })
 local Button = Tab:CreateButton({
