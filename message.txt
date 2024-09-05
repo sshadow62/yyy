@@ -615,6 +615,17 @@ local Button = Tab:CreateButton({
               
                                            }) 
 
+local Button = Tab:CreateButton({
+                                       Name = "My apologies, i don't speak to fags😅❤️",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("Myapologies,ido￴￴n￴￴￴ts￴￴￴p￴￴￴e￴￴￴￴a￴￴￴￴ktof￴￴￴￴a￴￴￴￴￴g￴￴￴￴s￴￴￴😅❤️")
+                                           
+                                           end,
+              
+                                           }) 
+
+
                                      local Tab = Window:CreateTab("nazi", 4483362458) -- Title, Image
 
 
