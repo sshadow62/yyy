@@ -28,7 +28,7 @@ local ArrayField = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI
 
 local Window = ArrayField:CreateWindow({
    Name = "catbypasser",
-   LoadingTitle = "catbypasser v1",
+   LoadingTitle = "catbypasser v1.2",
    LoadingSubtitle = "by shadow62",
    ConfigurationSaving = {
       Enabled = true,
@@ -512,6 +512,16 @@ local Button = Tab:CreateButton({
                                              Interact = 'Click',
                                              Callback = function()
                                                 Chat("lis￴￴￴￴te￴￴￴nt￴￴￴￴￴￴oyo￴￴￴￴￴urm￴￴￴￴a￴￴￴￴s￴￴￴￴t￴￴￴￴e￴￴￴￴￴rs￴￴￴￴￴l￴￴￴￴￴a￴￴￴￴￴v￴￴￴￴e!")
+                                                
+                                             end,
+                                          })
+
+
+local Button = Tab:CreateButton({
+                                             Name = "back to work nigger!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("b￴￴￴￴￴a￴￴￴￴￴￴c￴￴￴￴￴k￴￴￴￴￴t￴￴￴￴￴ow￴￴￴￴￴o￴￴￴￴￴r￴￴￴￴kn￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴e￴￴￴￴￴r!")
                                                 
                                              end,
                                           })
