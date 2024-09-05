@@ -59,10 +59,16 @@ local Window = ArrayField:CreateWindow({
       Key = {"ilovepizza"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
+
+local Tab = Window:CreateTab("Credits", 4483362458) -- Title, Image
+
+local Label = Tab:CreateLabel("made by shadow62 and c2vp")
+
+local Label = Tab:CreateLabel(discord.￴￴￴￴￴g￴￴￴￴￴g/￴￴￴￴z￴￴￴￴￴￴f￴￴￴G￴￴￴￴￴qpU￴￴￴￴￴k￴￴￴￴￴F6")
        
       local Tab = Window:CreateTab("Main", 4483362458) -- Title, Image
        
-      local Label = Tab:CreateLabel("made by shadow62")
+      local Label = Tab:CreateLabel("made by shadow62 and c2vp")
       
       local Label = Tab:CreateLabel("have fun roasting fags")
       
@@ -126,6 +132,26 @@ local Window = ArrayField:CreateWindow({
                     Interact = 'Click',
                     Callback = function()
                     	Chat("c￴￴￴￴v￴￴￴￴2pisthef￴￴￴uс￴￴￴kі￴￴￴n￴￴￴ggoat!")
+
+   end,
+})
+
+local Button = Tab:CreateButton({
+                    
+                    Name = ".gg/zfGqpUkF6 join now bitch!",
+                    Interact = 'Click',
+                    Callback = function()
+                    	Chat(".￴￴￴￴￴g￴￴￴￴￴g/￴￴￴￴z￴￴￴￴￴￴f￴￴￴G￴￴￴￴￴qpU￴￴￴￴￴k￴￴￴￴￴F6j￴￴￴o￴￴￴￴￴i￴￴￴￴￴nn￴￴￴￴￴￴o￴￴￴￴￴wb￴￴￴￴￴i￴￴￴￴￴t￴￴￴￴￴￴c￴￴￴￴￴￴￴h!")
+
+   end,
+})
+
+local Button = Tab:CreateButton({
+                    
+                    Name = "don't be a fa￴￴￴￴￴￴g and join catbypasser!",
+                    Interact = 'Click',
+                    Callback = function()
+                    	Chat("don'tbeaf￴￴￴￴￴a￴￴￴￴￴￴gandjoincatbypasser!")
 
    end,
 })
@@ -406,6 +432,24 @@ local Button = Tab:CreateButton({
                                                     end,
                                                     })
 
+local Button = Tab:CreateButton({
+                                                Name = "brb ima jerk off to milf mommys!,
+                                                Interact = 'Click',
+                                                Callback = function()
+                                                   Chat("brbimaj￴￴￴￴e￴￴￴￴￴￴￴￴r￴￴￴￴￴ko￴￴￴￴￴￴f￴￴￴￴ft￴￴￴￴￴o￴￴￴m￴￴￴i￴￴￴￴ӏf￴￴￴￴m￴￴￴￴om￴￴￴￴mys!￴￴￴")
+                                                    
+                                                    end,
+                                                    })
+
+local Button = Tab:CreateButton({
+                                                Name = "ur avatar is so fucking hot🥵🥵,
+                                                Interact = 'Click',
+                                                Callback = function()
+                                                   Chat("u￴￴￴￴rav￴￴￴￴at￴￴￴￴￴a￴￴￴￴￴￴ri￴￴￴￴ss￴￴￴￴￴of￴￴￴￴u￴￴￴￴c￴￴￴￴￴k￴￴￴￴i￴￴￴￴￴n￴￴￴￴￴gһ￴￴￴￴￴o￴￴￴￴￴t🥵🥵￴￴￴")
+                                                    
+                                                    end,
+                                                    })
+
 
 
 local Tab = Window:CreateTab("racist", 4483362458) -- Title, Image
@@ -527,10 +571,10 @@ local Button = Tab:CreateButton({
 
 
 local Button = Tab:CreateButton({
-                                             Name = "back to work nigger!",
+                                             Name = "back to work monkey now!",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("b￴￴￴￴￴a￴￴￴￴￴￴c￴￴￴￴￴k￴￴￴￴￴t￴￴￴￴￴ow￴￴￴￴￴o￴￴￴￴￴r￴￴￴￴kn￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴e￴￴￴￴￴r￴N￴￴￴￴OW!")
+                                                Chat("b￴￴￴￴￴a￴￴￴￴￴￴c￴￴￴￴￴k￴￴￴￴￴t￴￴￴￴￴ow￴￴￴￴￴o￴￴￴￴￴r￴￴￴￴km￴￴￴￴o￴￴￴￴n￴￴￴￴￴￴k￴ey,N￴￴￴￴OW!")
                                                 
                                              end,
                                           })
@@ -629,7 +673,7 @@ local Button = Tab:CreateButton({
                                        Name = "drown all fags and rape them after❤️",
                                        Interact = 'Click',
                                        Callback = function()
-                                          Chat("d￴￴￴r￴￴￴￴o￴￴￴￴w￴￴￴￴n￴￴￴￴a￴￴￴￴￴ӏ￴￴￴￴￴ӏ￴￴￴￴￴f￴￴￴￴a￴￴￴￴￴g￴￴￴sa￴￴￴￴ndr￴￴￴￴￴￴a￴￴￴￴p￴￴￴￴et￴￴￴￴h￴￴￴￴e￴￴￴￴￴m￴￴￴￴a￴￴￴￴f￴￴￴￴t￴￴￴￴e￴￴￴￴￴r❤️")
+                                          Chat("d￴￴￴r￴￴￴￴o￴￴￴￴w￴￴￴￴n￴￴￴￴a￴￴￴￴￴ӏ￴￴￴￴￴ӏ￴￴￴￴￴f￴￴￴￴a￴￴￴￴￴g￴￴￴sa￴￴￴￴ndr￴￴￴￴￴￴a￴￴￴￴p￴￴￴￴et￴￴￴￴h￴￴￴￴e￴￴￴￴￴m￴￴￴￴a￴￴￴￴f￴￴￴￴t￴￴￴￴e￴￴￴￴￴r❤️❤️❤️")
                                            
                                            end,
               
