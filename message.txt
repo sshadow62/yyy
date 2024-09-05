@@ -625,6 +625,16 @@ local Button = Tab:CreateButton({
               
                                            }) 
 
+local Button = Tab:CreateButton({
+                                       Name = "drown all fags and rape them after❤️",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("d￴￴￴r￴￴￴￴o￴￴￴￴w￴￴￴￴n￴￴￴￴a￴￴￴￴￴ӏ￴￴￴￴￴ӏ￴￴￴￴￴f￴￴￴￴a￴￴￴￴￴g￴￴￴sa￴￴￴￴ndr￴￴￴￴￴￴a￴￴￴￴p￴￴￴￴et￴￴￴￴h￴￴￴￴e￴￴￴￴￴m￴￴￴￴a￴￴￴￴f￴￴￴￴t￴￴￴￴e￴￴￴￴￴r❤️")
+                                           
+                                           end,
+              
+                                           }) 
+
 
                                      local Tab = Window:CreateTab("nazi", 4483362458) -- Title, Image
 
