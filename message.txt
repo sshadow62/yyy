@@ -343,10 +343,10 @@ local Button = Tab:CreateButton({
                                           })
 
 local Button = Tab:CreateButton({
-                                             Name = "shut up fatass",
+                                             Name = "shut up fatass monkey!",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("s￴￴￴￴h￴￴￴￴u￴￴￴￴tu￴￴￴￴pf￴а￴t￴а￴ѕ￴ѕ")
+                                                Chat("s￴￴￴￴h￴￴￴￴u￴￴￴￴tu￴￴￴￴pf￴а￴t￴а￴ѕ￴ѕm￴￴￴￴onk￴￴￴￴￴￴ey!")
                                                 
                                              end,
                                           })
