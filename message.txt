@@ -586,10 +586,10 @@ local Button = Tab:CreateButton({
                                           })
 
 local Button = Tab:CreateButton({
-                                             Name = "uh oh! nigger rape mode on!",
+                                             Name = "uh oh! nigga rape mode on!",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("uһoһ!n￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴e￴￴￴￴￴￴rr￴￴￴￴￴a￴￴￴￴￴p￴￴￴￴e￴￴￴￴modeon!")
+                                                Chat("uһoһ!n￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴ar￴￴￴￴￴a￴￴￴￴￴p￴￴￴￴e￴￴￴￴modeon!")
                                                 
                                              end,
                                           })
@@ -685,10 +685,10 @@ local Button = Tab:CreateButton({
                                            }) 
 
 local Button = Tab:CreateButton({
-                                       Name = "drown all fags and rape them after❤️",
+                                       Name = "drown all fags and rape their bodies❤️",
                                        Interact = 'Click',
                                        Callback = function()
-                                          Chat("d￴￴￴r￴￴￴￴o￴￴￴￴w￴￴￴￴n￴￴￴￴a￴￴￴￴￴ӏ￴￴￴￴￴ӏ￴￴￴￴￴f￴￴￴￴a￴￴￴￴￴g￴￴￴sa￴￴￴￴ndr￴￴￴￴￴￴a￴￴￴￴p￴￴￴￴et￴￴￴￴h￴￴￴￴e￴￴￴￴￴m￴￴￴￴a￴￴￴￴f￴￴￴￴t￴￴￴￴e￴￴￴￴￴r!!❤️")
+                                          Chat("d￴￴￴r￴￴￴￴o￴￴￴￴w￴￴￴￴n￴￴￴￴a￴￴￴￴￴ӏ￴￴￴￴￴ӏ￴￴￴￴￴f￴￴￴￴a￴￴￴￴￴g￴￴￴sa￴￴￴￴ndr￴￴￴￴￴￴a￴￴￴￴p￴￴￴￴et￴￴￴￴h￴￴￴￴eir￴￴￴￴￴￴￴￴￴bodies!❤️")
                                            
                                            end,
               
