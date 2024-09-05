@@ -40,7 +40,7 @@ local Window = ArrayField:CreateWindow({
       Invite = "zfGqpUkF6w", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
    },
-   KeySystem = true, -- Set this to true to use our key system
+   KeySystem = false, -- Set this to true to use our key system
    KeySettings = {
       Title = "Key system!",
       Subtitle = "Enter the key!",
@@ -122,10 +122,10 @@ local Window = ArrayField:CreateWindow({
                    })                   	
                     	
                     	local Button = Tab:CreateButton({
-                    Name = "shadow62 is the fucking goat!",
+                    Name = "c2vp is the fucking goat!",
                     Interact = 'Click',
                     Callback = function()
-                    	Chat("shadow62isthef￴￴￴uс￴￴￴kі￴￴￴n￴￴￴ggoat!")
+                    	Chat("c￴￴￴￴v￴￴￴￴2pisthef￴￴￴uс￴￴￴kі￴￴￴n￴￴￴ggoat!")
 
    end,
 })
@@ -264,16 +264,7 @@ local Button = Tab:CreateButton({
                                                  end,
                                                  }) 
 
-                                                 local Button = Tab:CreateButton({
-                                                   Name = "shut up nigger monk!",
-                                                   Interact = 'Click',
-                                                   Callback = function()
-                                                      Chat("ѕ￴￴￴һu￴￴￴tu￴￴￴рnіg￴￴￴gеrmо￴￴￴nk!")
-                                                       
-                                                       end,
-
-                                                   
-                                                       }) 
+                                                 
 
 
                                                        local Button = Tab:CreateButton({
@@ -301,7 +292,23 @@ local Button = Tab:CreateButton({
                                                       })                   
                                                       
                                                       
-                
+                local Button = Tab:CreateButton({
+                                             Name = "cry about it fatass",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("cryaboutitf￴а￴t￴а￴ѕ￴ѕ")
+                                                
+                                             end,
+                                          })
+
+local Button = Tab:CreateButton({
+                                             Name = "go fuck yourself!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("g￴￴￴￴of￴￴￴￴u￴￴￴￴c￴￴￴￴ky￴￴￴￴o￴￴￴￴u￴￴￴￴r￴￴￴￴s￴￴￴￴e￴￴￴￴￴ӏ￴￴￴￴f!")
+                                                
+                                             end,
+                                          })
                                                                    
 
 
@@ -451,14 +458,18 @@ local Button = Tab:CreateButton({
               
                                            }) 
 
-                                           local Button = Tab:CreateButton({
-                                             Name = "cry about it fatass",
-                                             Interact = 'Click',
-                                             Callback = function()
-                                                Chat("cryaboutitf￴а￴t￴а￴ѕ￴ѕ")
-                                                
-                                             end,
-                                          })
+local Button = Tab:CreateButton({
+                                                   Name = "shut up nigger monk!",
+                                                   Interact = 'Click',
+                                                   Callback = function()
+                                                      Chat("ѕ￴￴￴һu￴￴￴tu￴￴￴рnіg￴￴￴gеrmо￴￴￴nk!")
+                                                       
+                                                       end,
+
+                                                   
+                                                       }) 
+
+                                           
 
                     
 
@@ -554,6 +565,22 @@ local Button = Tab:CreateButton({
                                        end,
                                     })
 
+local Button = Tab:CreateButton({
+                                       Name = "u speaking fax nigga❤️",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("us￴￴￴p￴￴￴e￴￴￴a￴￴￴￴k￴￴￴￴i￴￴￴n￴￴￴￴gf￴￴￴￴a￴￴￴￴xn￴￴￴￴i￴￴￴￴g￴￴￴g￴￴￴a❤️")
+                                       end,
+                                    })
+local Button = Tab:CreateButton({
+                                       Name = "realest shit i heard today",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("r￴￴￴ea￴￴￴￴l￴￴￴￴ests￴￴￴￴һi￴￴￴￴tih￴￴￴￴e￴￴￴￴a￴￴￴￴r￴￴￴￴dt￴￴￴￴o￴￴￴￴d￴￴￴￴a￴￴￴￴y")
+                                       end,
+                                    })
+
+
                                     local Tab = Window:CreateTab("sexual", 4483362458) -- Title, Image
 
                                     local Button = Tab:CreateButton({
@@ -608,7 +635,7 @@ local Button = Tab:CreateButton({
                                           })   
 
                                           local Button = Tab:CreateButton({
-                                             Name = "lraping some minors rn😅🥰",
+                                             Name = "raping some minors rn😅🥰",
                                              Interact = 'Click',
                                              Callback = function()
                                                 Chat("r￴￴￴а￴￴￴ріn￴￴￴gsomem￴￴￴іn￴￴￴оrsrn😅🥰")
@@ -620,6 +647,14 @@ local Button = Tab:CreateButton({
                                              Interact = 'Click',
                                              Callback = function()
                                                 Chat("r￴￴￴ар￴￴￴еa￴ӏ￴ӏthemmіnоrѕ!")
+                                             end,
+                                          })
+
+local Button = Tab:CreateButton({
+                                             Name = "lick that fat cock sex slave!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("l￴￴￴￴i￴￴c￴kt￴h￴￴atf￴￴￴￴a￴￴￴t￴￴￴c￴￴￴￴￴￴￴o￴￴￴￴c￴￴￴￴ks￴e￴￴￴￴x￴￴￴￴s￴￴￴l￴￴a￴￴￴v￴￴￴￴e￴￴￴￴￴!")
                                              end,
                                           })
 
@@ -649,7 +684,7 @@ local Input = Tab:CreateInput({
    RemoveTextAfterFocusLost = false, -- Speaks for itself.
    Callback = function(Text)
       -- Corrected version to display the input Text dynamically
-      Chat("" .. Text .. ",ismajesticasf￴￴￴u￴￴￴￴c￴￴￴￴￴￴k!")
+      Chat("" .. Text .. "ismajesticasf￴￴￴u￴￴￴￴c￴￴￴￴￴￴k!")
    end,
 })
 
@@ -661,7 +696,7 @@ local Input = Tab:CreateInput({
    RemoveTextAfterFocusLost = false, -- Speaks for itself.
    Callback = function(Text)
       -- Corrected version to display the input Text dynamically
-      Chat("" .. Text .. ",isthem￴￴￴￴￴a￴￴￴s￴￴￴t￴￴￴e￴￴￴￴rofalls￴￴￴l￴￴￴a￴￴￴v￴￴￴e￴￴￴s!")
+      Chat("" .. Text .. "isthem￴￴￴￴￴a￴￴￴s￴￴￴t￴￴￴e￴￴￴￴rofalls￴￴￴l￴￴￴a￴￴￴v￴￴￴e￴￴￴s!")
    end,
 })
 local Input = Tab:CreateInput({
@@ -672,7 +707,22 @@ local Input = Tab:CreateInput({
    RemoveTextAfterFocusLost = false, -- Speaks for itself.
    Callback = function(Text)
       -- Corrected version to display the input Text dynamically
-      Chat("" .. Text .. ",i￴￴￴saf￴￴￴u￴￴￴c￴￴￴k￴￴￴i￴￴ngLEGEND!")
+      Chat("" .. Text .. "i￴￴￴saf￴￴￴u￴￴￴c￴￴￴k￴￴￴i￴￴ngLEGEND!")
+   end,
+})
+
+
+
+
+local Input = Tab:CreateInput({
+   Name = "your username loves gassing jews!",
+   PlaceholderText = "your username",   NumbersOnly = false, -- If the user can only type numbers. Remove or set to false if
+   CharacterLimit = false, --max character limit. Remove or set to false
+   OnEnter = true, -- Will callback only if the user pressed ENTER while being focused on the box.
+   RemoveTextAfterFocusLost = false, -- Speaks for itself.
+   Callback = function(Text)
+      -- Corrected version to display the input Text dynamically
+      Chat("" .. Text .. "￴ӏ￴￴￴￴￴o￴￴￴￴￴v￴￴￴￴e￴￴￴￴￴sg￴￴￴￴￴a￴￴￴￴s￴￴￴￴s￴￴￴￴i￴￴￴￴n￴￴￴￴gj￴￴￴￴￴e￴￴￴w￴￴￴￴s!")
    end,
 })
 
