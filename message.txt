@@ -319,7 +319,9 @@ local Button = Tab:CreateButton({
                                                          Callback = function()
                                                             Chat("Sorry,idon'ttalktofаіӏеdа￴b￴о￴r￴t￴і￴о￴n￴ѕ")
                                                          end,
-                                                      })                   
+                                                      })                  
+
+
                                                       
                                                       
                 local Button = Tab:CreateButton({
@@ -336,6 +338,15 @@ local Button = Tab:CreateButton({
                                              Interact = 'Click',
                                              Callback = function()
                                                 Chat("idcg￴￴￴￴of￴￴￴￴u￴￴￴￴c￴￴￴￴ky￴￴￴￴o￴￴￴￴u￴￴￴￴r￴￴￴￴s￴￴￴￴e￴￴￴￴￴ӏ￴￴￴￴f")
+                                                
+                                             end,
+                                          })
+
+local Button = Tab:CreateButton({
+                                             Name = "shut up fatass",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("s￴￴￴￴h￴￴￴￴u￴￴￴￴tu￴￴￴￴pf￴а￴t￴а￴ѕ￴ѕ")
                                                 
                                              end,
                                           })
