@@ -130,6 +130,15 @@ local Window = ArrayField:CreateWindow({
    end,
 })
 
+local Button = Tab:CreateButton({
+                    Name = "_9xr is the fucking goat!",
+                    Interact = 'Click',
+                    Callback = function()
+                    	Chat("_9xristhef￴￴￴uс￴￴￴kі￴￴￴n￴￴￴ggoat!")
+
+   end,
+})
+
 
 
 local Button = Tab:CreateButton({
@@ -657,7 +666,7 @@ local Button = Tab:CreateButton({
                                        Name = "u speaking fax my nigga❤️",
                                        Interact = 'Click',
                                        Callback = function()
-                                          Chat("us￴￴￴p￴￴￴e￴￴￴a￴￴￴￴k￴￴￴￴i￴￴￴n￴￴￴￴gf￴￴￴￴a￴￴￴￴xm￴￴￴￴￴yn￴￴￴￴￴￴i￴￴￴￴￴g￴￴￴￴g￴￴￴￴a￴￴￴❤️")
+                                          Chat("us￴￴￴p￴￴￴e￴￴￴a￴￴￴￴k￴￴￴￴i￴￴￴n￴￴￴￴greals￴￴￴￴һ￴￴￴￴i￴￴￴￴tm￴￴￴￴￴yhomie￴￴￴❤️")
                                        end,
                                     })
 local Button = Tab:CreateButton({
