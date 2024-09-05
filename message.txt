@@ -428,7 +428,7 @@ local Button = Tab:CreateButton({
                                                     })
 
 local Button = Tab:CreateButton({
-                                                Name = "brb ima jerk off to milf mommys!,
+                                                Name = "brb ima jerk off to milf mommys!",
                                                 Interact = 'Click',
                                                 Callback = function()
                                                    Chat("brbimaj￴￴￴￴e￴￴￴￴￴￴￴￴r￴￴￴￴￴ko￴￴￴￴￴￴f￴￴￴￴ft￴￴￴￴￴o￴￴￴m￴￴￴i￴￴￴￴ӏf￴￴￴￴m￴￴￴￴om￴￴￴￴mys!￴￴￴")
@@ -437,7 +437,7 @@ local Button = Tab:CreateButton({
                                                     })
 
 local Button = Tab:CreateButton({
-                                                Name = "ur avatar is so fucking hot🥵🥵,
+                                                Name = "ur avatar is so fucking hot🥵🥵",
                                                 Interact = 'Click',
                                                 Callback = function()
                                                    Chat("u￴￴￴￴rav￴￴￴￴at￴￴￴￴￴a￴￴￴￴￴￴ri￴￴￴￴ss￴￴￴￴￴of￴￴￴￴u￴￴￴￴c￴￴￴￴￴k￴￴￴￴i￴￴￴￴￴n￴￴￴￴￴gһ￴￴￴￴￴o￴￴￴￴￴t🥵🥵￴￴￴")
