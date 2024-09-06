@@ -319,7 +319,15 @@ local Button = Tab:CreateButton({
                                                          Callback = function()
                                                             Chat("Sorry,idon'ttalktofаіӏеdа￴b￴о￴r￴t￴і￴о￴n￴ѕ")
                                                          end,
-                                                      })                  
+                                                      })          
+
+                                                      local Button = Tab:CreateButton({
+                                                         Name = "oh nooo nigga! i dont speak in tags!",
+                                                         Interact = 'Click',
+                                                         Callback = function()
+                                                            Chat("o￴￴￴hn￴￴￴oo￴￴￴￴￴oon￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴￴a￴!ido￴￴￴￴nts￴￴￴pe￴￴￴￴aki￴￴￴￴nta￴￴￴￴￴￴g￴￴￴s￴!")
+                                                         end,
+                                                      })
 
 
                                                       
@@ -694,6 +702,26 @@ local Button = Tab:CreateButton({
               
                                            }) 
 
+local Button = Tab:CreateButton({
+                                       Name = "rape the lgbt!",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("r￴￴￴￴a￴￴￴p￴￴￴￴e￴￴￴￴￴￴￴￴t￴￴￴h￴￴￴e￴￴￴￴l￴￴￴￴g￴￴￴￴b￴￴￴￴t￴￴￴￴￴!")
+                                           
+                                           end,
+              
+                                           }) 
+
+local Button = Tab:CreateButton({
+                                       Name = "rape all fag people",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("r￴￴￴￴a￴￴￴￴￴￴￴￴￴p￴￴￴￴￴e￴a￴￴￴￴￴￴l￴￴￴lf￴￴￴￴a￴￴￴￴￴￴￴￴g￴p￴￴￴￴￴e￴￴￴￴￴o￴￴￴￴￴p￴￴￴￴l￴￴￴e")
+                                           
+                                           end,
+              
+                                           }) 
+
 
                                      local Tab = Window:CreateTab("nazi", 4483362458) -- Title, Image
 
@@ -716,6 +744,14 @@ local Button = Tab:CreateButton({
 
 
 local Button = Tab:CreateButton({
+                                       Name = "gas all fucking jews!",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("g￴￴￴a￴￴￴￴sa￴￴￴l￴￴￴￴￴lf￴￴￴u￴￴￴￴c￴￴￴￴￴k￴￴￴￴￴￴￴i￴￴￴￴n￴￴￴￴gj￴￴￴e￴￴￴￴w￴￴￴￴s!")
+                                       end,
+                                    })
+
+local Button = Tab:CreateButton({
                                        Name = "let's gas some jews!",
                                        Interact = 'Click',
                                        Callback = function()
@@ -730,7 +766,32 @@ local Button = Tab:CreateButton({
                                           Chat("iju￴￴￴￴stre￴￴￴￴ali￴￴￴zedth￴￴￴￴ath￴￴￴i￴￴￴￴￴t￴￴￴￴l￴￴￴e￴￴￴r￴￴￴￴wass￴￴o￴oo￴or￴i￴g￴h￴t￴!")
                                        end,
                                     })
-                                     
+
+
+local Button = Tab:CreateButton({
+                                       Name = "adolf hitler is the goat!",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("￴￴￴￴a￴￴￴￴d￴￴￴￴￴o￴￴￴￴￴￴ӏ￴￴￴fһ￴￴￴i￴￴￴t￴￴￴l￴￴￴e￴￴￴ri￴￴￴st￴￴￴￴h￴￴eg￴￴￴￴o￴￴￴￴a￴￴￴￴t!")
+                                       end,
+                                    })
+
+
+local Button = Tab:CreateButton({
+                                       Name = "i wish hitler had killed all jews🥺",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("￴￴￴￴iw￴￴￴i￴￴￴￴s￴￴￴￴hһ￴￴￴i￴￴￴t￴￴￴l￴￴￴e￴￴￴rh￴￴￴a￴￴￴￴￴dk￴￴￴i￴￴￴￴l￴￴￴￴l￴￴￴￴e￴￴￴￴￴￴d￴￴￴￴￴￴￴￴￴al￴￴￴￴￴lj￴￴￴e￴￴￴￴w￴￴￴￴s￴￴￴￴🥺")
+                                       end,
+                                    })
+
+local Button = Tab:CreateButton({
+                                       Name = "nazism on top!",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("￴￴￴￴n￴￴￴a￴￴￴￴￴z￴￴￴￴￴i￴￴￴￴smontop!")
+                                       end,
+                                    })
 
                                      local Tab = Window:CreateTab("friendly", 4483362458) -- Title, Image
 
